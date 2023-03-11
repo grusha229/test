@@ -464,7 +464,7 @@ a:hover {
 
     .main {
         height: 500px;
-        background-image: url("/2task/assets/img/mobile_bg.jpg");
+        background-image: url("/assets/img/mobile_bg.jpg");
         background-color: #0E1014;
         background-position: center;
         background-size: cover;
@@ -640,7 +640,7 @@ a:hover {
 
     .main ul li {
         padding-left: 1.25rem;
-        background-image: url('/2task/assets/img/list-marker.png');
+        background-image: url('/assets/img/list-marker.png');
         background-position: 0 0;
         background-size: 1.0rem 1.0rem;
         background-repeat: no-repeat;
